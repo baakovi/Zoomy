@@ -1,0 +1,90 @@
+<a class="signup-button w3-button w3-round-xxlarge ws-green ws-hover-green" id="plans_pro_btn" href="https://billing.w3schools.com/products/spaces?frequency=monthly&amp;selectedPlan=pro-monthly" style="color: #ffffff; padding: 10px; width: 150px; margin-top: 10px; margin-bottom: 30px;"><b>Get Pro</b></a>
+
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: 'Source Sans Pro', sans-serif;
+    box-sizing: inherit;
+    border: none;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    background-color: #04AA6D!important;
+    color: white!important;
+    font-size: 19px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+Redes Sociais
+
+<ul class="list-unstyled d-flex justify-content-center">
+                            <li>
+                                <a href="#" target="_blank" class="btn-dark">
+                                    <i class="fa-brands fa-facebook-f"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="btn-dark">
+                                    <i class="fa-brands fa-linkedin-in"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="btn-dark">
+                                    <i class="fa-brands fa-twitter"></i>
+                                </a>
+                            </li>
+                        </ul>
+
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #212529;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-align: center!important;
+    box-sizing: border-box;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 0;
+    list-style: none;
+    display: flex!important;
+    justify-content: center!important;

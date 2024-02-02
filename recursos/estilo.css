@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Newsreader', serif;
+    font-weight: 600;
+}
+.navbar-brand, .recursos h2, .page-servicos h3{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+}
+.destaque{
+    padding: 150px 0 80px;
+}
+.display-1{
+    font-size: 3.8rem;
+}
+.jumbotron{
+    background: linear-gradient(45deg, #2937f0, #9f1ae2);
+}
+.parallax{
+    padding: 150px 0;
+    background: rgba(0, 0, 0, .5) url(imagens/bg-section.jpg) center center fixed no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.btn{
+    border-radius: 35px;
+}
+.rodape{
+    background: #000;
+}
+@media (min-width:576px){
+    .display-1{
+        font-size: 6rem;
+    }
+}
+/* SOBRE NÓS */
+.wrapper{
+    padding: 150px 0 70px;
+    background: rgba(0, 0, 0, .5) url(imagens/bg-wrapper.jpg) center center no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.card-team img{
+    max-width: 250px;
+    border: 8px solid #f2f2f2;
+}
+.card-team a{
+    display: block;
+    width: 35px;
+    height: 35px;
+    margin: 0 5px;
+    line-height: 35px;
+    border-radius: 50%;
+}
+/* CONTATO */
+.form-control{
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, .5);
+    margin-bottom: 20px;
+}
+textarea.form-control{
+    height: 150px;
+}
+.card-info{
+    padding: 10px;
+    box-shadow: 3px 3px 10px #ccc;
+    border-radius: 15px;
+}
+.card-info img{
+    max-width: 60px;
+}
+/* PORTFOLIO */
+.obj-cover{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.card-portfolio{
+    background: transparent;
+    border: none;
+    padding: 5px;
+    text-align: left;
+}
+.card-portfolio:focus{
+    outline: none;
+}
+.page-portfolio .box-image{
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    height: 250px;
+}
+.modal-header{
+    background: linear-gradient(45deg, #2937f0, #9f1ae2);
+}
+.modal-title{
+    color: rgb(255, 255, 255);
+}
+.close{
+    color: white;
+    opacity: 1;
+}

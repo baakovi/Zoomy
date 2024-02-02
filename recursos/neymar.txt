@@ -1,0 +1,1 @@
+<a class="signup-button w3-button w3-round-xxlarge ws-green ws-hover-green" id="plans_pro_btn" href="https://billing.w3schools.com/products/spaces?frequency=monthly&amp;selectedPlan=pro-monthly" style="color: #ffffff; padding: 10px; width: 150px; margin-top: 10px; margin-bottom: 30px;"><b>Get Pro</b></a>

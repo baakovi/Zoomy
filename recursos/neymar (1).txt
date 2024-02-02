@@ -1,0 +1,23 @@
+<a class="signup-button w3-button w3-round-xxlarge ws-green ws-hover-green" id="plans_pro_btn" href="https://billing.w3schools.com/products/spaces?frequency=monthly&amp;selectedPlan=pro-monthly" style="color: #ffffff; padding: 10px; width: 150px; margin-top: 10px; margin-bottom: 30px;"><b>Get Pro</b></a>
+
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    font-family: 'Source Sans Pro', sans-serif;
+    box-sizing: inherit;
+    border: none;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    background-color: #04AA6D!important;
+    color: white!important;
+    font-size: 19px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 30px;

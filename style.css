@@ -1,0 +1,284 @@
+body {
+    background: linear-gradient(to bottom, #060530 0%, #100530 100%);
+    background-repeat: no-repeat;
+    width: 100%; 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.navbar {
+    background-color: #5e17eb;
+    padding: 0.5% 10%;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+/* INÍCIO DO INDEX */
+
+.banner {
+    background-image: url(catalogo/tlou1.png);
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+}
+
+.bannerh1 {
+    font-family: 'Bebas Neue', cursive;
+    color: #e0e0e0;
+    text-shadow: #040320 2px 2px 5px;
+    font-size: 95px;
+    padding-top: 200px;
+    padding-left: 80px;
+}
+
+#planos {
+    padding: 100px;
+    text-align: center;
+}
+
+.list-left-align {
+    text-align: left !important;
+}
+
+/* .card {
+    margin-left: 10px;
+    margin-right: 10px;
+} */
+
+.zm-car {
+    border-width: 2px;
+    border-color: #5e17eb;
+    margin: 9px;
+    min-width: 260px;
+    max-width: 260px;
+    border-radius: 32px;
+    float: left;
+}
+
+.assina-outline {
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    box-sizing: inherit;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    font-size: 18px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.assina-button {
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    box-sizing: inherit;
+    border: none;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    font-size: 18px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.zm-purple {
+    background-color: #5e17eb!important;
+    color: white!important;
+}
+
+.fot {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.footer {
+    color: #ded7ec;
+}
+
+.demo a:hover,a:focus{
+    text-decoration: none;
+    outline: none;
+}
+
+#accordion .panel {
+    border: none;
+    border-radius: 5px;
+    box-shadow: none;
+    margin-bottom: 10px;
+    background: transparent;
+}
+
+#accordion a {
+    text-decoration: none;
+}
+
+#accordion .panel-heading {
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    background: transparent;
+    position: relative;
+}
+
+#accordion .panel-title a{
+    display: block;
+    padding: 20px 30px;
+    margin: 0;
+    background: rgba(0,0,0,0.4);
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+}
+
+#accordion .panel-title a.collapsed{ border: none; }
+#accordion .panel-title a:before,
+#accordion .panel-title a.collapsed:before{
+    content: "\2023";
+    width: 30px;
+    height: 30px;
+    line-height: 27px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    color: #fff;
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    transform: rotate(90deg);
+    transition: all .4s cubic-bezier(0.080, 1.090, 0.320, 1.275);
+}
+
+#accordion .panel-title a.collapsed:before{
+    color: rgba(255,255,255,0.5);
+    transform: rotate(0deg);
+}
+
+#accordion .panel-body{
+    padding: 20px 30px;
+    background: rgba(0,0,0,0.1);
+    font-size: 15px;
+    color: #fff;
+    line-height: 28px;
+    letter-spacing: 1px;
+    border-top: none;
+    border-radius: 5px;
+}
+
+.dispositivos::after {
+    background: #00ffff;
+    content: "";
+    display: block;
+    height: 2px;
+    margin: 20px auto;
+    width: 70px;
+}
+
+/* FIM DO INDEX */
+
+/* CSS Zendesk */
+
+/* INÍCIO DO CATÁLOGO */
+
+#testimonials {
+    text-align: center;
+    padding: 3% 15%;
+    color: #fff;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 750px;
+}
+
+.caro {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4rem;
+}
+
+.pad {
+    margin-left: 100px;
+}
+
+.pad2 {
+    padding-left: 100px;
+}
+
+
+/* ÍNICIO DO SOBRE NÓS */
+
+.wrapper{
+    padding: 600px 0 70px;
+    background: #0000001c url(catalogo/wandinha.png) center center no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.text-bg-secondary {
+    color: #040320;
+}
+
+.card-team img{
+    max-width: 200px;
+}
+.card-team a{
+    display: block;
+    width: 35px;
+    height: 35px;
+    margin: 0 5px;
+    line-height: 35px;
+    border-radius: 50%;
+}
+
+/* FINAL DO SOBRE NÓS */
+
+
+/* INÍCIO DO ASSINE */
+
+.form-control, .form-select {
+    border: none;
+    border-radius: 10px;
+    border-bottom: 3px solid #a200ff;
+    margin-bottom: 20px;
+}
+
+#endereco {
+    color: #a200ff;
+}
+
+/* FINAL DO ASSINE */
+
+/* Responsivo */
+
+@media (min-width: 993px) {
+    .zm-car {
+        width: 50%;
+    }
+}
